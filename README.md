@@ -1,7 +1,7 @@
 # R-shiny
-## R-shiny 
+## Dashboard 製作練習 
 
-Dashboard 製作練習 
+
 
 [完成品](https://ee466w-0-0.shinyapps.io/dashboard_practice/?_ga=2.185694378.2071009183.1664512335-165693826.1663070480)
 
